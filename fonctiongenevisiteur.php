@@ -4,7 +4,7 @@ function connexion(){
 
             $host = "127.0.0.1";
             $user = "root";
-            $password = "leahpar29";
+            $password = "";
             $dbname = "gsb_frais";
             $port='3306';
 
